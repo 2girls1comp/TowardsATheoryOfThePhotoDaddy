@@ -13,7 +13,7 @@ GAMEPLAY TRAILER:
 https://www.youtube.com/watch?v=vhiKpL8AlOg
 
 INSTALLATION:
-- Copy "towardsAPhilosophyOfThePhotoDaddy.dll" and the "flusser" folder into your scripts folder (if you don't have one, create it) in your GTA V root folder
+- Copy "towardsAPhilosophyOfThePhotoDaddy.dll" and the "flusser" folder into your scripts folder (if you don't have one, create it) in your GTA V root folder.
 
 INSTRUCTIONS:
 - press L to toggle the mod ON/OFF
