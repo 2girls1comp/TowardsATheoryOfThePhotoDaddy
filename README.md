@@ -20,8 +20,8 @@ INSTRUCTIONS:
 - the mod is not available during missions 
 
 REQUIREMENTS:
-Script Hook V
-Script Hook V Dot Net
+- [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
+- [Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
 
 ![TowardsATheoryOfThePhotoDaddy](screenshots/TowardsATheoryOfThePhotoDaddy1.png)
 
